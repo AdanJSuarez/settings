@@ -1,0 +1,32 @@
+{
+    "telemetry.enableTelemetry": false,
+    "workbench.colorTheme": "Atom One Dark",
+    "go.useLanguageServer": true,
+    "editor.fontSize": 15,
+    "editor.cursorBlinking": "solid",
+    "editor.cursorStyle": "block",
+    "workbench.colorCustomizations": {
+        "editorCursor.background": "#ff944d",
+		"editorCursor.foreground": "#ff944d",
+    },
+    "todo-tree.tree.showScanModeButton": false,
+    "todo-tree.highlights.defaultHighlight": {
+        "icon": "check-circle-fill",
+        "type": "text",
+        "foreground": "black",
+        "background": "orange",
+        "opacity": 50,
+        "iconColour": "orange"
+    },
+    "editor.codeActionsOnSave": null,
+    "git.autofetch": true,
+    "go.toolsManagement.autoUpdate": true,
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "terminal.integrated.profiles.windows": {
+        "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe (migrated)": {
+            "path": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+            "args": []
+        }
+    },
+    "terminal.explorerKind": "external"
+}
